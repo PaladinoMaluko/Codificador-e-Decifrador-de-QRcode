@@ -16,5 +16,5 @@ para criar uma mensagem
 ## Considerações
 - Projeto simples, mas oferece uma boa noção de como criar arquivos utilizando
 path
-- Ajuda no entendimento de criar ecessões e evitar erros previsiveis(pasta não
+- Ajuda no entendimento de criar exceções e evitar erros previsíveis(pasta não
 existe, path não colocado, mensagem não colocada...)
